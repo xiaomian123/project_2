@@ -19,3 +19,7 @@ jQuery.ajax({
 console.log(_);
 console.log(a);
 console.log("process.env.NODE_ENV:",process.env.NODE_ENV);
+
+
+console.log('23.28dian')
+console.log('老板不行')
